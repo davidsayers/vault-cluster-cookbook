@@ -1,9 +1,7 @@
 # Ignore docs files
 _gh_pages
 _site
-.ruby-version
 .node-version
-Gemfile.lock
 
 # Numerous always-ignore extensions
 *.diff
@@ -51,4 +49,3 @@ vendor
 .chefdk
 .kitchen
 .vagrant
-Berksfile.lock
